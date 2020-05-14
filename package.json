@@ -1,0 +1,12 @@
+{
+  "name": "VisaNode",
+  "version": "1.0.0",
+  "description": "Running the Cybersource and Visa Checkout sample code =====================================================  1. Pre-requisite packages to be installed: npm install request 2. Log on to beta.developer.visa.com and click on your app name 3. Copy the APIKey and Shared secret to any text editor 4. Download the sample code Cybersourcesample.js or VisaCheckoutsample.js to your local folder 5. Replace \"put your api key here\" with the APIKey from step 3 6. Replace \"put your shared secret here\" with the Shared Secret from step 3 7. Compile and run the sample code 8. You should see response from the respective API calls",
+  "main": "CybersourceSample copy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
